@@ -1,6 +1,5 @@
-## Hi there 👋
+## Olá, tudo bem? 👋
 
-- 🌱 I’m currently studying for a Bachelor's Degree in Information Systems
-- 🤔 I’m looking for help with coding
-- 💬 Ask me about anything
-- 📫 How to reach me: lucasgbr.ferreira@gmail.com
+Atualmente, estou me dedicando aos estudos para concluir a graduação em Sistemas de Informação e, ao mesmo tempo, aprimorando minhas habilidades de programação. Se precisar de ajuda com códigos ou quiser trocar uma ideia sobre tecnologia, estou à disposição!
+
+Sinta-se à vontade para entrar em contato: lucasgbr.ferreira@gmail.com
